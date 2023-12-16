@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @amincxnnn
 - 👀 I am interested in the field of programming 
 - 🌱 I’m currently learning Digital Development
-- 
-- لففا
-- فا
+  
+  -the.ocx-
+  
 
 
 <!---
